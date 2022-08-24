@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\bin\Debug\net6.0\QueueWithLinkedList.exe
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\bin\Debug\net6.0\QueueWithLinkedList.deps.json
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\bin\Debug\net6.0\QueueWithLinkedList.runtimeconfig.json
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\bin\Debug\net6.0\QueueWithLinkedList.dll
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\bin\Debug\net6.0\ref\QueueWithLinkedList.dll
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\bin\Debug\net6.0\QueueWithLinkedList.pdb
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.dll
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\ref\QueueWithLinkedList.dll
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.pdb
+C:\Users\Mahdi\Desktop\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.genruntimeconfig.cache
